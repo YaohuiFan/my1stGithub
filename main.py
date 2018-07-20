@@ -10,7 +10,7 @@ class MainWindow():
 
 if __name__ == '__main__':
 
-    default_video = Path(r'/home/trueview/Videos/sample.mp4')
+    default_video = Path(r'/home/fanwillow/Videos/myVideos/Samsung/20140604_184135.mp4')
 
     main = MainWindow(default_video)
 
