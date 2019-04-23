@@ -1,4 +1,4 @@
-# Testing of 
+# Testing of
 
 import sys
 import threading
